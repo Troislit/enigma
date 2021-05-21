@@ -1,0 +1,2 @@
+C:\Users\Тройслит Андрей\source\repos\enigma_1.0\Debug\enigma_1.0.exe
+C:\Users\Тройслит Андрей\source\repos\enigma_1.0\Debug\enigma_1.0.pdb
